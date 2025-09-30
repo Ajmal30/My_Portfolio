@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ajmal-nayeem/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Ajmal30"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:ajmalnayeem.aj@gmail.com"
+        }
+    ]
+}

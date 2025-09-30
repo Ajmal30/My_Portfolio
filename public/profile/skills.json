@@ -1,0 +1,102 @@
+{
+    "intro": "I enjoy exploring new concepts and experimenting with emerging technologies. \nHere are some of the key languages, tools, platforms and technologies I have experience with",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/go-lang.png",
+                    "title": "Go"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/redis.png",
+                    "title": "Redis"
+                }
+               
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/fast-api.jpg",
+                    "title": "FastAPI"
+                },
+                {
+                    "icon": "images/skills/spring.png",
+                    "title": "Spring"
+                },
+                 {
+                    "icon": "images/skills/gin.png",
+                    "title": "Gin"
+                },
+                {
+                    "icon": "images/skills/aws.svg",
+                    "title": "AWS"
+                }
+
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/kubernetes.png",
+                    "title": "Kubernetes"
+                },
+                {
+                    "icon": "images/skills/elastic.png",
+                    "title": "Elastic Search"
+                },
+                {
+                    "icon": "images/skills/pycharm.png",
+                    "title": "PyCharm"
+                },
+                {
+                    "icon": "images/skills/vscode.jpeg",
+                    "title": "VSCode"
+                }
+
+            ]
+    }
+]}

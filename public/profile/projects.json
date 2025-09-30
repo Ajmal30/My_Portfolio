@@ -1,0 +1,100 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/lexy.png",
+            "title": "Lexy",
+            "bodyText": "A lightweight command-line interface (CLI) tool that fetches programming tutorials from Learn X in Y Minutes directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Ajmal30/lexy"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "CLI",
+                "Click",
+                "Bat",
+                "FzF"
+            ]
+        },
+        {
+            "image" : "images/projects/AR.jpg",
+            "title": "VRnatomy",
+            "bodyText": "An immersive AR/VR app offering interactive 3D exploration of human anatomy for enhanced learning and visualization.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Ajmal30/VRnatomy"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "Vuforia Cloud",
+                "Blender"
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Portfolio",
+            "bodyText": "A personal portfolio built with HTML, CSS, and Node.js to showcase projects, skills and experience with an interactive and responsive design, highlighting both frontend and backend development.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Ajmal30/My_Portfolio"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Node JS"
+            ]
+        },
+        {
+            "title": "SnakeByte",
+            "bodyText": "A Snake game in Pygame where the player guides a snake to eat food and grow longer while avoiding collisions with walls or itself. It showcases basic game loops, rendering and collision detection.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Ajmal30/SnakeByte"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Android",
+                "Pygame",
+                "Pycharm"
+            ]
+        },
+        {
+            "title": "Codem",
+            "bodyText": "A Social Media app built in C++ that lets users create profiles, post content, and connect with others through features like likes, comments and messaging. It highlights object-oriented design, data structures and file handling.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Ajmal30/CODEM"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "VS Code"
+            ]
+        },
+         {
+            "title": "Space Ranger",
+            "bodyText": "A fast-paced shooting game built with Python, featuring real-time target interaction and dynamic scoring",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Ajmal30/Space_Ranger"
+                }
+            ],
+            "tags" : [
+                "Pyhon",
+                "VS Code",
+                "Pygame"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Tata Elxsi",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed and maintained a high-throughput RESTful API using Flask to support a large-scale application, integrating Apache Kafka for asynchronous processing, enabling the system to reliably handle over 50,000 requests per second.",
+                "Created an API to fetch Python scripts from GitLab using OAuth,integrated Prisma Cloud for vulnerability scanning before execution, ensuring only secure code runs in production and minimising deployment risks",
+                "Improved system reliability by integrating AWS services, using Secret Manager for secure credential storage, S3 for durable file handling, and SNS for real-time failure alerts",
+                "Standardised observability across microservices by implementing CEF-compliant logging, improving audit traceability and enabling more effective security monitoring",
+                "Increased test coverage from 83% to 98% using Pytest, reducing bugs by 15% and enhancing release stability",
+                "Tasked with onboarding interns, conducted code walkthroughs and KT sessions, resulting in faster ramp-up and improved team collaboration" 
+            ],
+            "dateText": "06/2023 – Present"
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "subtitle": "Verzio",
+            "workType": "Internship",
+            "workDescription": [
+                "implemented supervised, unsupervised and complex machine learning algorithms using a suite of Python libraries such as scikit-learn, NumPy and pandas.",
+                "Developed machine learning models for diverse projects using advanced algorithms and tools, achieving accuracy rates exceeding 95%"
+            ],
+            "dateText": "01/2021 – 02/2021"
+        }
+    ]
+}
